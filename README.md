@@ -28,7 +28,7 @@ Tugas MKU Komputer dan Pemrograman
 3. Program ini saya buat supaya pengguna dapat memasukkan input tanggal dan bulan dan setelah menekan enter pada keyboard akan muncul hasil dari zodiac yang dia cari sesuai dengan tanggal kelahiran. Setelah memasukkan input, program memanggil fungsi findZodiacSign dengan memberikan nilai bulan dan tanggal kelahiran sebagai argumen. Hasilnya disimpan dalam variabel zodiacSign.
 4. Kode ini adalah contoh program dalam bahasa pemrograman Java yang mencetak elemen-elemen dari sebuah array string ke layar.
 
-* String[] mobil = {"Rush, ", "Fortuner, ", "Cayla, ", "Avanza, ", "Innova, ", "dan Supra."}; : Ini adalah deklarasi dan inisialisasi array string bernama mobil yang berisi beberapa merk mobil.
-* for (int i = 0; i < mobil.length; i++) { }: Ini adalah loop for yang digunakan untuk mengiterasi melalui setiap elemen dalam array mobil.
-* int i = 0;: Inisialisasi variabel i dengan nilai 0.
-* System.out.println(mobil[i]);: Di dalam loop, pernyataan ini mencetak elemen array pada indeks ke-i ke layar.
+   * String[] mobil = {"Rush, ", "Fortuner, ", "Cayla, ", "Avanza, ", "Innova, ", "dan Supra."}; : Ini adalah deklarasi dan inisialisasi array string bernama mobil yang berisi beberapa merk mobil.
+   * for (int i = 0; i < mobil.length; i++) { }: Ini adalah loop for yang digunakan untuk mengiterasi melalui setiap elemen dalam array mobil.
+   * int i = 0;: Inisialisasi variabel i dengan nilai 0.
+   * System.out.println(mobil[i]);: Di dalam loop, pernyataan ini mencetak elemen array pada indeks ke-i ke layar.
