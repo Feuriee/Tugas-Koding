@@ -19,6 +19,6 @@ Tugas MKU Komputer dan Pemrograman
 3. Buatlah program zodiac dengan menggunakan fitur input dengan hasil menampilkan zodiac sesuai dengan tanggal lahir yang diinputkan
 4. Buatlah sebuah variabel dengan tipe data array, kemudian tampilkan semua nilai dalam variabel tersebut menggunakan perulangan for
 
-#Penjelasan
+# Penjelasan
 
 1. Pada program yang dilampirrkan pada folder ini dengan nama file loop.java
