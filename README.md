@@ -21,4 +21,7 @@ Tugas MKU Komputer dan Pemrograman
 
 # Penjelasan
 
-1. Pada program yang dilampirrkan pada folder ini dengan nama file loop.java
+1. Pada program yang dilampirkan pada folder ini dengan nama file loop.java. Saya menggunakan perulangan FOR untuk membuat looping dalam program.
+   Kemudian untuk membatasi antara angka 1 sampai dengan 9 adalah dengan menggunakan IF, if (i <= 9) itu artinya jika kurang dari sama dengan 9 maka akan mengeluarkan output dari angka 1 -9
+   Kemudian kode ELSE IF untuk membatasi antara itu, misal seperti diprogram saya, else if (i == 10) {sout(panggil variabel)}, itu artinya jika nilai lebih dari 10 maka akan mengeluarkan output yang ada pada           variabel
+   
