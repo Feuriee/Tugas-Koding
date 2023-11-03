@@ -1,4 +1,7 @@
 # Tugas-Koding
+## Nama : Yohanes Adi Prasetya
+## NPM  : G1A023049
+## Informatika, A
 
 Tugas MKU Komputer dan Pemrograman 
 
@@ -19,7 +22,7 @@ Tugas MKU Komputer dan Pemrograman
 3. Buatlah program zodiac dengan menggunakan fitur input dengan hasil menampilkan zodiac sesuai dengan tanggal lahir yang diinputkan
 4. Buatlah sebuah variabel dengan tipe data array, kemudian tampilkan semua nilai dalam variabel tersebut menggunakan perulangan for
 
-# Penjelasan
+## Penjelasan
 
 1. Pada program yang dilampirkan pada folder ini dengan nama file loop.java. Saya menggunakan perulangan FOR untuk membuat looping dalam program.
    Kemudian untuk membatasi antara angka 1 sampai dengan 9 adalah dengan menggunakan IF, if (i <= 9) itu artinya jika kurang dari sama dengan 9 maka akan mengeluarkan output dari angka 1 -9
